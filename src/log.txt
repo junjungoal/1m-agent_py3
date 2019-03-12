@@ -1,0 +1,1 @@
+Round	0	timestep	0	PigNum	0	group_num	34	mean_size	2.000000	variance_size	0.000000	max_group_size	2	rabbitNum	0	View	66	number	34	agent_num	10000	join_ratio	0.010000	leave_ratio	0.010900
